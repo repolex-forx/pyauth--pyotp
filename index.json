@@ -1,0 +1,11 @@
+{
+  "org": "pyauth",
+  "repo": "pyotp",
+  "versions": [
+    {
+      "commit": "cc156832fa9f3d5af7fb9e4e6b86b29dfc5b69f1",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:00:43.241472+00:00"
+    }
+  ]
+}
